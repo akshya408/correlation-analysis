@@ -44,3 +44,5 @@ Selects relevant numerical columns:
 ├── 📄 README.md                   # Project documentation
 └── 📁 dataset/
     └── Data_set 2 - Copy.xlsx     # Excel dataset used in the analysis
+
+![ChatGPT Image Jun 15, 2025, 11_32_42 PM](https://github.com/user-attachments/assets/4eeef896-872a-4a12-ba22-a4e4165df9ee)
