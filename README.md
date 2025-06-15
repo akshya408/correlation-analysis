@@ -20,6 +20,8 @@ The goal is to understand how these factors influence one another using statisti
 - Excel (`.xlsx`) file as dataset
 
 ---
+Visual
+![ChatGPT Image Jun 15, 2025, 11_32_42 PM](https://github.com/user-attachments/assets/d3137580-5652-43f0-a718-bf2ba8bcad58)
 
 ## 🔍 What the Script Does
 
@@ -45,5 +47,5 @@ Selects relevant numerical columns:
 └── 📁 dataset/
     └── Data_set 2 - Copy.xlsx     # Excel dataset used in the analysis
 
-![ChatGPT Image Jun 15, 2025, 11_32_42 PM](https://github.com/user-attachments/assets/b0ad1df6-25b2-43aa-b806-fabcb14e60f0)
+
 
